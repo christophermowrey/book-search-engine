@@ -15,6 +15,8 @@ The goal of this challenge is to build the back end for an e-commerce site. You'
 Configuring an express API to work with sequilize and MySQL
 
 
+## Installation
+npm i, SOURCE schema, node seeds/index, node server.js, open in insomnia to test backend
 
 
 ## Questions
